@@ -33,14 +33,6 @@ Me gusta aprender constantemente, mejorar mis habilidades y trabajar en proyecto
 
 ---
 
-### 🎯 Objetivos Profesionales
-
-- Aprender más sobre frameworks modernos y metodologías ágiles.  
-- Desarrollar aplicaciones completas y escalables.  
-- Seguir creciendo como profesional en el área de tecnología y desarrollo web.
-
----
-
 ### 🧰 Tecnologías y Herramientas
 
 <p align="center">
@@ -53,14 +45,14 @@ Me gusta aprender constantemente, mejorar mis habilidades y trabajar en proyecto
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XabierP2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XabierP2006&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XabierP2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de XabierP2006"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XabierP2006&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados por XabierP2006"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XabierP2006&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=XabierP2006&theme=tokyonight" alt="Racha de contribuciones de XabierP2006"/>
 
 </div>
 
