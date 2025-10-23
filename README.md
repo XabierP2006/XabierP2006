@@ -30,8 +30,8 @@ Me gusta aprender constantemente y aplicar mis conocimientos en proyectos que co
 cd
 ### 📫 Contacto
 
-- GitHub: [XabierPerez](https://github.com/XabierPerez)
-- Email: *(agrega aquí tu correo si deseas)*
+- GitHub: [XabierPerez](https://github.com/XabierP2006)
+- Email: *idk.chavy@gmail.com*
 
 ---
 
